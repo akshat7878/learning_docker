@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "Kafka-basics/consumer.ipynb"
+      - "Kafka_basics/consumer.ipynb"
 
 jobs:
   deploy:
@@ -37,7 +37,7 @@ jobs:
       - name: Upload Notebook
         run: |
           databricks workspace import \
-          Kafka-basics/consumer.ipynb \
+          Kafka_basics/consumer.ipynb \
           /Shared/consumer \
           --language PYTHON \
           --format JUPYTER \
