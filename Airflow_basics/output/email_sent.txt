@@ -1,0 +1,3 @@
+Email sent to Alice (alice@gmail.com)
+Email sent to Bob (bob@gmail.com)
+Email sent to John (john@gmail.com)

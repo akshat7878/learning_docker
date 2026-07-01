@@ -1,0 +1,3 @@
+Name: Alice, Email: alice@gmail.com
+Name: Bob, Email: bob@gmail.com
+Name: John, Email: john@gmail.com
